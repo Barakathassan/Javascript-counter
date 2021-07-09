@@ -5,7 +5,7 @@
 }
 
 body{
-  background: url("../JavascriptCounter/img/mainBcg.jpeg") center/cover fixed no-repeat;
+  background: url("../Javascript-counter/img/mainBcg.jpeg") center/cover fixed no-repeat;
   display: grid;
   place-items: center;
   height: 100vh;
